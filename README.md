@@ -5,6 +5,8 @@
 <br>
 <img width="1446" height="818" alt="3  Bolt Card API Document" src="https://github.com/user-attachments/assets/d68c7bcd-6105-4143-b3ec-3770a6dd3e1a" />
 <br>
+<br>
+<br>
 1.หาวิธีให้ได้มาซึ่ง Invoice/Read Key และ Lightning Node URL ของ Account LNbits ที่ Bolt Card นั้นลงทะเบียนอยู่<br>
 <img width="1221" height="709" alt="1  How toget Invoice read key" src="https://github.com/user-attachments/assets/a06e22b1-bb2f-488c-a23c-aa1872ed8fd2" />
 <br>
@@ -43,7 +45,7 @@
 <br>
 7.ให้คุณไปสร้าง Lightning Invoice ของคุณมาโดยที่ห้ามเกินวงเงินที่ Bolt Card มีและห้ามเกินขนาดของ Max Transaction<br>
 (วิธีการเช็ควงเงินให้ใช้คำสั่ง /api/v1/wallet เพียงเท่านี้ก็เห็นยอดเงินทั้งบัญชีแล้ว หรือ คุณสามารถใช้ python ที่มีชื่อ Get_Amount.py)<br>
-![LN Invoice](https://github.com/user-attachments/assets/965f1a74-3ca1-4d51-9b80-19515fa2a605)
+   ![LN Invoice](https://github.com/user-attachments/assets/965f1a74-3ca1-4d51-9b80-19515fa2a605)
 <br>
 <br>
 <br>
