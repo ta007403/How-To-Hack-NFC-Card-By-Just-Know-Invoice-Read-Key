@@ -66,10 +66,10 @@ https://YOUR_LN_NODE_URL/boltcards/api/v1/lnurl/cb/k1<br>
 <br>
 9.แล้วก็เอา Link ที่เราประกอบกันขึ้นมาไป Browse กับ Google Chrome อีกรอบนึง หากแดกเงินสำเร็จมันจะขึ้นว่า {"status":"OK"}<br>
 <img width="799" height="315" alt="10  OK" src="https://github.com/user-attachments/assets/f994505b-6a4f-4d05-ad47-54ef5d8b1a69" />
-<br>
-![Done 1](https://github.com/user-attachments/assets/25a3d825-18fa-44d7-a926-beb2d2e68a03)
-<br>
-![Done 2](https://github.com/user-attachments/assets/5161e8d1-a005-42a8-980b-89b8366136f1)
+
+   ![Done 1](https://github.com/user-attachments/assets/25a3d825-18fa-44d7-a926-beb2d2e68a03)
+
+   ![Done 2](https://github.com/user-attachments/assets/5161e8d1-a005-42a8-980b-89b8366136f1)
 <br>
 <img width="1243" height="554" alt="11  Deduted" src="https://github.com/user-attachments/assets/2c1e0fb0-5e5a-4252-a555-b17d29b9ad4a" />
 <br>
