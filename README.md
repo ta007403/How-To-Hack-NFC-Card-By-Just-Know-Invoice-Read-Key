@@ -43,8 +43,11 @@
 <br>
 <br>
 <br>
-7.ให้คุณไปสร้าง Lightning Invoice ของคุณมาโดยที่ห้ามเกินวงเงินที่ Bolt Card มีและห้ามเกินขนาดของ Max Transaction<br>
-(วิธีการเช็ควงเงินให้ใช้คำสั่ง /api/v1/wallet เพียงเท่านี้ก็เห็นยอดเงินทั้งบัญชีแล้ว หรือ คุณสามารถใช้ python ที่มีชื่อ Get_Amount.py)<br>
+7. ให้คุณไปสร้าง Lightning Invoice ของคุณมาโดยที่ห้ามเกินวงเงินที่ Bolt Card มี  
+   และห้ามเกินขนาดของ Max Transaction  
+   (วิธีการเช็ควงเงินให้ใช้คำสั่ง /api/v1/wallet  
+   หรือใช้ python ที่มีชื่อ Get_Amount.py)
+
    ![LN Invoice](https://github.com/user-attachments/assets/965f1a74-3ca1-4d51-9b80-19515fa2a605)
 <br>
 <br>
