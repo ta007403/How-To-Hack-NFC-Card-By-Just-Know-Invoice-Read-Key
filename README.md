@@ -28,6 +28,7 @@
 <br>
 <br>
 4.จากนั้นให้คุณเอาข้อมูลที่ได้มาไปคำนวณหา SUN และ CMAC แล้วก็เอาทั้ง 2 ค่าไปประกอบเป็น<br>
+<img width="1411" height="693" alt="545379404-1dde2cdb-e83b-4809-8789-6fb1d962b339" src="https://github.com/user-attachments/assets/e643fc87-6061-4d8b-847f-1f00f6ddf362" />
 [ขั้นตอนนี้คุณสามารถใช้ Code python ที่มีชื่อว่า Cal_CMAC_SUN.py ในการสร้าง LNURLw ได้เลย]<br>
 <img width="1411" height="693" alt="6  Cal CMAC and SUN" src="https://github.com/user-attachments/assets/1dde2cdb-e83b-4809-8789-6fb1d962b339" />
 <br>
