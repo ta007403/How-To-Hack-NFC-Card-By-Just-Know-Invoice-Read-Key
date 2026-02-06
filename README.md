@@ -28,19 +28,18 @@
 <br>
 <br>
 4.จากนั้นให้คุณเอาข้อมูลที่ได้มาไปคำนวณหา SUN และ CMAC แล้วก็เอาทั้ง 2 ค่าไปประกอบเป็น<br>
-<img width="1411" height="693" alt="545379404-1dde2cdb-e83b-4809-8789-6fb1d962b339" src="https://github.com/user-attachments/assets/e643fc87-6061-4d8b-847f-1f00f6ddf362" />
 [ขั้นตอนนี้คุณสามารถใช้ Code python ที่มีชื่อว่า Cal_CMAC_SUN.py ในการสร้าง LNURLw ได้เลย]<br>
-<img width="1411" height="693" alt="6  Cal CMAC and SUN" src="https://github.com/user-attachments/assets/1dde2cdb-e83b-4809-8789-6fb1d962b339" />
+<img width="1411" height="693" alt="545379404-1dde2cdb-e83b-4809-8789-6fb1d962b339" src="https://github.com/user-attachments/assets/e643fc87-6061-4d8b-847f-1f00f6ddf362" />
 <br>
 <br>
 <br>
 5.เมื่อคุณได้ LNURLw มาแล้ว ก็ให้เอาไป Browse ที่ Google Chrome<br>
-<img width="778" height="678" alt="7  Copy LNURLw" src="https://github.com/user-attachments/assets/e4915bbb-a966-44f8-a2e3-6ca8adc783a4" />
+<img width="778" height="678" alt="545379639-e4915bbb-a966-44f8-a2e3-6ca8adc783a4" src="https://github.com/user-attachments/assets/3816bcc4-0115-4eaa-9199-ad5532fa38f6" />
 <br>
 <br>
 <br>
 6.จากนั้นให้คุณทำการ Copy ในส่วนของ Callback และค่า k1 ที่ถูก Generate มาจาก LNbits แล้วเก็บไว้<br>
-<img width="1460" height="614" alt="8  Browse LNURLw" src="https://github.com/user-attachments/assets/1d2408df-f937-43a2-9ca1-5033d3d8d2a4" />
+<img width="1460" height="614" alt="545380104-1d2408df-f937-43a2-9ca1-5033d3d8d2a4" src="https://github.com/user-attachments/assets/6131491f-a9b2-4bbc-a418-d0417b470bba" />
 <br>
 <br>
 <br>
@@ -53,7 +52,8 @@
 <br>
 8.จากนั้นให้เอา Callback และค่า k1 ที่ได้จากข้อ 6 มาประกอบกับ Invoice ของคุณซึ่งเป็นสถานที่ที่ต้องการให้เงินไปมาประกอบกัน<br>
 ตามสูตรนี้ callback?k1=...&pr=...<br>
-<img width="1225" height="691" alt="9  Compose" src="https://github.com/user-attachments/assets/121cad91-b634-4976-9db5-fd70d00ac70e" />
+<img width="1225" height="691" alt="545380486-121cad91-b634-4976-9db5-fd70d00ac70e" src="https://github.com/user-attachments/assets/1e150ce7-f56d-415e-ae15-f0b841b9d4c7" />
+
 <br>
 <br>
 <br>
@@ -64,13 +64,13 @@ https://YOUR_LN_NODE_URL/boltcards/api/v1/lnurl/cb/k1<br>
 <br>
 <br>
 9.แล้วก็เอา Link ที่เราประกอบกันขึ้นมาไป Browse กับ Google Chrome อีกรอบนึง หากแดกเงินสำเร็จมันจะขึ้นว่า {"status":"OK"}<br>
-<img width="799" height="315" alt="10  OK" src="https://github.com/user-attachments/assets/f994505b-6a4f-4d05-ad47-54ef5d8b1a69" />
+<img width="799" height="315" alt="545382012-f994505b-6a4f-4d05-ad47-54ef5d8b1a69" src="https://github.com/user-attachments/assets/9ee1d1e1-13ad-4541-8f08-afe9bc456b98" />
 
    ![Done 1](https://github.com/user-attachments/assets/25a3d825-18fa-44d7-a926-beb2d2e68a03)
 
    ![Done 2](https://github.com/user-attachments/assets/5161e8d1-a005-42a8-980b-89b8366136f1)
 <br>
-<img width="1243" height="554" alt="11  Deduted" src="https://github.com/user-attachments/assets/2c1e0fb0-5e5a-4252-a555-b17d29b9ad4a" />
+<img width="1243" height="554" alt="545382151-2c1e0fb0-5e5a-4252-a555-b17d29b9ad4a" src="https://github.com/user-attachments/assets/28f1ef9d-9cb5-4152-b75e-242b4a1a9cc0" />
 <br>
 <br>
 <br>
