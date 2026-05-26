@@ -77,3 +77,5 @@ https://YOUR_LN_NODE_URL/boltcards/api/v1/lnurl/cb/k1<br>
 <br>
 ปล. K1 ของ Bolt Card กับ k1 ที่ LNbits Gen ออกมานั้นไม่เหมือนกัน<br>
 <img width="794" height="167" alt="K1 is not K1" src="https://github.com/user-attachments/assets/3ef1fe20-2a06-4ac5-bcb0-29530380c14d" />
+
+<img width="1080" height="1080" alt="CMAC and HMAC" src="https://github.com/user-attachments/assets/2f02a3ae-7532-417a-b388-0126efed69fd" />
